@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/Overtekk/42/tree/main/libft">
-    <img src="assets/libft.png" width="220" alt="Libft Badge"/>
+    <img src="assets/libft.png" width="230" alt="Libft Badge"/>
   </a>
   &nbsp;
   <a href="https://github.com/Overtekk/42/tree/main/ft_printf">
