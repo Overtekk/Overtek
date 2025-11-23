@@ -1,4 +1,8 @@
-<h2 align="center">42 School Projects</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=26CDE1&background=20E7FF00&vCenter=true&multiline=true&width=500&height=100&lines=Hi%2C+I'm+Overtek;Currently+student+at+42+Le+Havre)](https://git.io/typing-svg)
+<br />
+
+---
+# 42 projects
 
 <div align="center">
   <a href="https://github.com/Overtekk/Libft"><img src="assets/libft.png" width="230" alt="Libft Badge"/></a>
