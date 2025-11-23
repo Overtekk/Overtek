@@ -15,7 +15,7 @@
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Overtekk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Overtekk&show_icons=true&theme=neon&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Overtekk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Overtekk&layout=compact&theme=neon&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
 </div>
