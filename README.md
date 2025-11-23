@@ -6,6 +6,8 @@
   <a href="https://github.com/Overtekk/ft_printf"><img src="assets/ft_printf.png" width="230" alt="Printf Badge"/></a>
   &nbsp;
   <a href="https://github.com/Overtekk/get_next_line"><img src="assets/get_next_line.png" width="230" alt="GNL Badge"/></a>
+  &nbsp;
+  <a href="https://github.com/Overtekk/so_long"><img src="assets/so_long.png" width="230" alt="GNL Badge"/></a>
 </div>
 
 <br/>
